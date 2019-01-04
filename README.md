@@ -1,4 +1,4 @@
-# mvis
+# MVIS
 Material for the Machine Vision course (521466S) at the University of Oulu.
 
 ## Installation
