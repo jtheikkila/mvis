@@ -1,2 +1,2 @@
 # mvis
-Material for the machine vision course
+Material for the machine vision course.
