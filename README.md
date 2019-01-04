@@ -11,22 +11,15 @@ A virtual environment is recommended.
 
 To run the Jupyter notebooks you need the following packages:
 
-jupyter
-numpy
-
-matplotlib
-
-opencv-python
-
-opencv-contrib-python
-
-Pillow
-
-scikit-image
-
-scikit-learn
-
-scipy
+- jupyter
+- numpy
+- matplotlib
+- opencv-python
+- opencv-contrib-python
+- Pillow
+- scikit-image
+- scikit-learn
+- scipy
 
 ## pyRT
 
