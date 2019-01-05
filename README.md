@@ -1,5 +1,5 @@
 # MVIS
-Material for the Machine Vision course (521466S) at the University of Oulu.
+Lecture examples for the Machine Vision course ([521466S](https://noppa.oulu.fi/noppa/kurssi/521466s/etusivu)).
 
 ## Installation
 
@@ -33,3 +33,4 @@ Most of the sample images are from the OpenCV [repository](https://github.com/op
 ## Contact
 
 Janne Heikkilä
+University of Oulu
