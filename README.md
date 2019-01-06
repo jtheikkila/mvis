@@ -32,5 +32,5 @@ Most of the sample images are from the OpenCV [repository](https://github.com/op
 
 ## Contact
 
-Janne Heikkilä
+Janne Heikkilä 
 University of Oulu
