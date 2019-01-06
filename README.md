@@ -23,14 +23,14 @@ To run the Jupyter notebooks you need the following packages:
 
 ## pyRT
 
-To use ray tracing for rendering the synthetic images you need to install the modified version of pyRT from the folder pyrt with the commmand:
-python3 setup.py install
+To use ray tracing for rendering the synthetic images you need to install the modified version of pyRT from the folder pyrt with the commmand:\
+```python3 setup.py install```
 
 ## Image data
 
-Most of the sample images are from the OpenCV [repository](https://github.com/opencv/opencv/tree/master/samples/data). Some images are proprietary and can be provided by the instructor on request.
+Most of the sample images are from the [OpenCV repository](https://github.com/opencv/opencv/tree/master/samples/data). Some images are proprietary and can be provided by the instructor on request.
 
 ## Contact
 
-Janne Heikkilä 
+Janne Heikkilä \
 University of Oulu
