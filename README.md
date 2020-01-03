@@ -1,5 +1,5 @@
 # MVIS
-Lecture examples for the Machine Vision course ([521466S](https://noppa.oulu.fi/noppa/kurssi/521466s/etusivu)).
+Lecture examples for the Machine Vision course ([521466S](https://moodle.oulu.fi/course/info.php?id=1198)).
 
 ## Installation
 
@@ -14,17 +14,15 @@ To run the Jupyter notebooks you need the following packages:
 - jupyter
 - numpy
 - matplotlib
-- opencv-python
-- opencv-contrib-python
-- Pillow
+- opencv-python (must be version 3.4.x.x)
+- opencv-contrib-python (must be version 3.4.x.x)
 - scikit-image
 - scikit-learn
 - scipy
 
-## pyRT
+## Pyrender
 
-To use ray tracing for rendering the synthetic images you need to install the modified version of pyRT from the folder pyrt with the commmand:\
-```python3 setup.py install```
+In two notebooks, you also need [Pyrender](https://pyrender.readthedocs.io/en/latest/) for image rendering. The packet can be installed with ``pip install pyrender`` on a GPU-enabled computer.
 
 ## Image data
 
