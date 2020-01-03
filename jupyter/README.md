@@ -13,4 +13,4 @@
 8. [Motion](Motion.ipynb)
 9. [2D models and transformations](2DModels.ipynb)
 10. Perceiving 3D from 2D images: [Photometric Stereo](PhotometricStereo.ipynb) and [Stereopsis](Stereopsis.ipynb)
-11. 3D transformations and reconstruction
+11. [3D reconstruction](3DReconstruction.ipynb)
