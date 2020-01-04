@@ -14,15 +14,15 @@ To run the Jupyter notebooks you need the following packages:
 - jupyter
 - numpy
 - matplotlib
-- opencv-python (must be version 3.4.x.x)
-- opencv-contrib-python (must be version 3.4.x.x)
+- opencv-python (version 3.4.2.16)
+- opencv-contrib-python (version 3.4.2.16)
 - scikit-image
 - scikit-learn
 - scipy
 
 ## Pyrender
 
-In two notebooks, you also need [Pyrender](https://pyrender.readthedocs.io/en/latest/) for image rendering. The packet can be installed with ``pip install pyrender`` on a GPU-enabled computer.
+In two notebooks, you also need [Pyrender](https://pyrender.readthedocs.io/en/latest/) for image rendering. The packet can be installed with ``pip install pyrender==0.1.32`` on a GPU-enabled computer.
 
 ## Image data
 
