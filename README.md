@@ -14,8 +14,8 @@ To run the Jupyter notebooks you need the following packages:
 - jupyter
 - numpy
 - matplotlib
-- opencv-python (version 3.4.2.16)
-- opencv-contrib-python (version 3.4.2.16)
+- opencv-python (version 3.4.2.17)
+- opencv-contrib-python (version 3.4.2.17)
 - scikit-image
 - scikit-learn
 - scipy
