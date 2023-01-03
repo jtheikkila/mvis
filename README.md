@@ -1,11 +1,11 @@
 # MVIS
-Lecture examples for the Machine Vision course ([521466S](https://moodle.oulu.fi/course/view.php?id=4317)).
+Lecture examples for the Machine Vision course 521466S.
 
 ## Installation
 
 You may use Anaconda or pip to install the packages. 
 
-Tested with Python version 3.8.5.
+Tested with Python version 3.9.15.
 
 A virtual environment is recommended. 
 
@@ -14,15 +14,15 @@ To run the Jupyter notebooks you need the following packages:
 - jupyter
 - numpy
 - matplotlib
-- opencv-python (tested with version 4.4.0.46)
-- opencv-contrib-python (tested with version 4.4.0.46)
+- opencv-python (tested with version 4.7.0.68)
+- opencv-contrib-python (tested with version 4.7.0.68)
 - scikit-image
 - scikit-learn
 - scipy
 
 ## Pyrender
 
-In two notebooks, you also need [Pyrender](https://pyrender.readthedocs.io/en/latest/) for image rendering. The packet can be installed with ``pip install pyrender==0.1.39`` (GPU is required).
+In two notebooks, you also need [Pyrender](https://pyrender.readthedocs.io/en/latest/) for image rendering. The packet can be installed with ``pip install pyrender`` (GPU is required).
 
 ## Image data
 
